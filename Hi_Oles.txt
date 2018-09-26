@@ -1,2 +1,3 @@
 Hi_Oles!
-chenged smf on git repo
+changed smf on git repo
+changed smf on repo clone
